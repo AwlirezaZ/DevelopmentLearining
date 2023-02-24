@@ -1,0 +1,6 @@
+D:\Programming\PAP Learning\Session03\Session03\bin\Debug\Session03.exe.config
+D:\Programming\PAP Learning\Session03\Session03\bin\Debug\Session03.exe
+D:\Programming\PAP Learning\Session03\Session03\bin\Debug\Session03.pdb
+D:\Programming\PAP Learning\Session03\Session03\obj\Debug\Session03.csproj.CoreCompileInputs.cache
+D:\Programming\PAP Learning\Session03\Session03\obj\Debug\Session03.exe
+D:\Programming\PAP Learning\Session03\Session03\obj\Debug\Session03.pdb
