@@ -1,0 +1,7 @@
+D:\Programming\PAP Learning\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+D:\Programming\PAP Learning\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe
+D:\Programming\PAP Learning\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.pdb
+D:\Programming\PAP Learning\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csproj.AssemblyReference.cache
+D:\Programming\PAP Learning\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csproj.CoreCompileInputs.cache
+D:\Programming\PAP Learning\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.exe
+D:\Programming\PAP Learning\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.pdb
