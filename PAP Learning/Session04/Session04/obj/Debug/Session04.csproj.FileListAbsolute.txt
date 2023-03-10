@@ -1,0 +1,7 @@
+D:\Programming\PAP Learning\Session04\Session04\bin\Debug\Session04.exe.config
+D:\Programming\PAP Learning\Session04\Session04\bin\Debug\Session04.exe
+D:\Programming\PAP Learning\Session04\Session04\bin\Debug\Session04.pdb
+D:\Programming\PAP Learning\Session04\Session04\obj\Debug\Session04.csproj.AssemblyReference.cache
+D:\Programming\PAP Learning\Session04\Session04\obj\Debug\Session04.csproj.CoreCompileInputs.cache
+D:\Programming\PAP Learning\Session04\Session04\obj\Debug\Session04.exe
+D:\Programming\PAP Learning\Session04\Session04\obj\Debug\Session04.pdb
